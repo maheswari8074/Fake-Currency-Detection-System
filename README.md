@@ -130,11 +130,14 @@ Fake-Currency-Detection-System/
 To give a visual overview of the user experience:
 
 1.  **Image Upload and Input Window**
-    The initial screen where the user selects the image file and specifies the denomination.
+    <img width="1471" height="826" alt="image" src="https://github.com/user-attachments/assets/89a53de1-a99c-45f0-8ece-b62d3060b15c" />
+
 2.  **Processing Screen**
-    A simple window indicating that the computer vision algorithms are running.
+    <img width="1717" height="774" alt="image" src="https://github.com/user-attachments/assets/5c5fd577-d3a2-40c3-8729-b7b1bfab3cf2" />
+
 3.  **Final Results Screen**
-    The comprehensive report showing the input image, feature-wise breakdown, SSIM scores, and the final verdict.
+    <img width="425" height="822" alt="image" src="https://github.com/user-attachments/assets/feb7a9e8-4d4b-4281-aa1e-515d600cc375" />
+
 
 ---
 
