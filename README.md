@@ -154,10 +154,10 @@ To give a visual overview of the user experience:
 
 | Name | Role |
 |---|---|
-|  | Image Processing & GUI Design |
-|  | Core Algorithm Development |
-|  | Dataset Preparation & Testing |
-|  | Documentation & Integration |
+| Maheswari Mudadla | Image Processing & GUI Design |
+| Nihita Kolukula | Core Algorithm Development |
+| Niyati Kolukula | Dataset Preparation & Testing |
+| Aishwarya Para | Documentation & Integration |
 
 
 
